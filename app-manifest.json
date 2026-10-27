@@ -1,0 +1,18 @@
+{
+  "product": "HEX OS X Ultimate",
+  "version": "34.0",
+  "editions": [
+    "web",
+    "linux-starter"
+  ],
+  "apps": [
+    "Terminal",
+    "Files",
+    "Editor",
+    "Tasks",
+    "System",
+    "Settings",
+    "System Fabric"
+  ],
+  "native_kernel_in_browser": false
+}
